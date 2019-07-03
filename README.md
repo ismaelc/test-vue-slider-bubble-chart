@@ -1,5 +1,8 @@
 # project-chart
 
+## Demo
+- https://project-chart.s3.amazonaws.com/index.html#/project
+
 ## Project setup
 ```
 npm install
